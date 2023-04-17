@@ -36,7 +36,7 @@ a {
 
 .btn {
   min-width: 118px;
-  line-height: 50px;
+  /* line-height: 50px; */
 }
 
 .line-clamp {
@@ -224,6 +224,7 @@ a {
   text-align: center;
   color: #ffffff;
   padding: 22px 34px;
+  line-height: normal;
   background: var(--primary-color);
   border-radius: 32px;
 }
